@@ -1,6 +1,6 @@
 ---
 title: 'My First Blog Post'
-pubDate: 1016-03-10
+pubDate: 2026-03-10
 description: 'This is the first post of NMCs blog.
 author: 'AJT'
 image:
