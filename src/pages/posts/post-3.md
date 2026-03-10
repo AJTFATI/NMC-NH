@@ -3,8 +3,8 @@ title: My Third Blog Post
 author: AJ Taylor
 description: "Working at Starbucks changed the way I view the world."
 image:
-  url: "https://docs.astro.build/assets/rays.webp"
-  alt: "The Astro logo on a dark background with rainbow rays."
+    url: "https://docs.astro.build/assets/rays.webp"
+    alt: "The Astro logo on a dark background with rainbow rays."
 pubDate: 2026-03-10
 tags: ["life", "coffee", "setback"]
 ---
